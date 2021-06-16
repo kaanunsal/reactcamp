@@ -14,7 +14,7 @@ export default function ProductDetail() {
   },[])
 
 
-  return (
+  return ( 
     <div>
       <Card.Group>
         <Card fluid>
